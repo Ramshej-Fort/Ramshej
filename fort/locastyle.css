@@ -181,7 +181,7 @@ body{
   height: 40px;
   width: 300px;
   top: 0;
-  right: 15px;
+  right: 0;
   font-weight: bold;
   text-align: center; 
 }
@@ -198,7 +198,7 @@ body{
   background-color: #f6b319;
   height: 40px;
   width: 295px;
-  top: 535px;
+  top: 530px;
   right: 0;
   font-weight: bold;
   text-align: center;
@@ -285,8 +285,8 @@ body{
   position: absolute;
   background-color: #f6b319;
   width: 208px;
-  top: 0;
-  right: 15px;
+  top: 10px;
+  right: 0;
   font-weight: bold;
   text-align: center;
   font-size: 25px;
@@ -304,14 +304,11 @@ body{
   position: absolute;
   background-color: #f6b319;
   width: 208px;
-  top: 535px;
-  right: 15px;
+  top: 530px;
+  right: 0;
   font-weight: bold;
   text-align: center;
   font-size: 25px;
-}
-.fh1{
-  padding-top: 70px;
 }
 .fh1{
   position: relative;
