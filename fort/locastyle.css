@@ -64,7 +64,7 @@ body{
   background-color: #f6b319;
   height: 38px;
   width: 300px;
-  top: -20px;
+  top: -22px;
   right: 0;
   font-weight: bold;
   text-align: center; 
@@ -90,7 +90,7 @@ body{
   background-color: #f6b319;
   height: 38px;
   width: 295px;
-  top: -20px;
+  top: -22px;
   right: 0;
   font-weight: bold;
   text-align: center;
@@ -179,8 +179,8 @@ body{
   position: absolute;
   background-color: #f6b319;
   height: 40px;
-  width: 300px;
-  top: 20px;
+  width: 295px;
+  top: 18px;
   right: 0;
   font-weight: bold;
   text-align: center; 
@@ -197,15 +197,15 @@ body{
   position: absolute;
   background-color: #f6b319;
   height: 40px;
-  width: 295px;
-  top: 527px;
+  width: 290px;
+  top: 526px;
   right: 0;
   font-weight: bold;
   text-align: center;
 }
 .fh1{
   position: relative;
-  padding-top: 15px;
+  padding-top: 20px;
     height: 170px;
   font-family: 'Algerian', sans-serif;
   color: #f7dd95;
@@ -285,7 +285,7 @@ body{
   position: absolute;
   background-color: #f6b319;
   width: 208px;
-  top: 15px;
+  top: 18px;
   right: 0;
   font-weight: bold;
   text-align: center;
@@ -312,16 +312,16 @@ body{
 }
 .fh1{
   position: relative;
-  padding-top: 15px;
-    height: 170px;
+  padding-top: 20px;
+  height: 170px;
   font-family: 'Algerian', sans-serif;
   color: #f7dd95;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-    text-align: center;
-    font-size: 80px;
-    overflow: hidden;
+  text-align: center;
+  font-size: 80px;
+  overflow: hidden;
 }
 .name{
   position: absolute;
