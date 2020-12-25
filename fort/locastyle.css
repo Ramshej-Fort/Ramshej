@@ -1,12 +1,10 @@
-html{
-  height: 100%;
-}
+
 body{
 	font-size: 16px;
 	color: #fff;
 	background-image: url('https://github.com/Ramshej-Fort/Ramshej/blob/gh-pages/fort/earth.jpg?raw=true');
 	background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% 150%;
 	font-family: 'Oxygen', sans-serif
 }
 *{
@@ -66,7 +64,7 @@ body{
   background-color: #f6b319;
   height: 38px;
   width: 300px;
-  top: -10px;
+  top: -15px;
   right: 0;
   font-weight: bold;
   text-align: center; 
@@ -91,8 +89,8 @@ body{
   position: absolute;
   background-color: #f6b319;
   height: 38px;
-  width: 300px;
-  top: -10px;
+  width: 295px;
+  top: -15px;
   right: 0;
   font-weight: bold;
   text-align: center;
@@ -181,9 +179,9 @@ body{
   text-transform: uppercase;
   position: absolute;
   background-color: #f6b319;
-  height: 43px;
-  width: 350px;
-  top: 35px;
+  height: 40px;
+  width: 300px;
+  top: -15px;
   right: 15px;
   font-weight: bold;
   text-align: center; 
@@ -199,10 +197,10 @@ body{
   text-transform: uppercase;
   position: absolute;
   background-color: #f6b319;
-  height: 43px;
-  width: 310px;
-  top: 547px;
-  right: 20px;
+  height: 40px;
+  width: 295px;
+  top: 540px;
+  right: 0;
   font-weight: bold;
   text-align: center;
 }
