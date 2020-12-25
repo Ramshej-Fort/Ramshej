@@ -66,8 +66,8 @@ body{
   background-color: #f6b319;
   height: 43px;
   width: 350px;
-  top: 35px;
-  right: 15px;
+  top: 0;
+  right: 0;
   font-weight: bold;
   text-align: center; 
 }
@@ -76,9 +76,11 @@ body{
 }
 .img1{
   height: 477px;
+  padding-left: 10px;
 }
 .img2{
   height: 477px;
+  padding-left: 10px;
 }
 #third{
   font-family: 'Lora', serif;
@@ -90,8 +92,8 @@ body{
   background-color: #f6b319;
   height: 43px;
   width: 310px;
-  top: 35px;
-  right: 15px;
+  top: 0;
+  right: 0;
   font-weight: bold;
   text-align: center;
 }
