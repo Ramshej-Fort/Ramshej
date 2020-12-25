@@ -64,9 +64,9 @@ body{
   text-transform: uppercase;
   position: absolute;
   background-color: #f6b319;
-  height: 43px;
-  width: 350px;
-  top: 0;
+  height: 38px;
+  width: 300px;
+  top: -10px;
   right: 0;
   font-weight: bold;
   text-align: center; 
@@ -90,9 +90,9 @@ body{
   text-transform: uppercase;
   position: absolute;
   background-color: #f6b319;
-  height: 43px;
-  width: 310px;
-  top: 0;
+  height: 38px;
+  width: 300px;
+  top: -10px;
   right: 0;
   font-weight: bold;
   text-align: center;
