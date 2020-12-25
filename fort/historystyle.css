@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+}
+.f1{
+    border-radius:0;
+    border: 0;
+    height: 200px;
+}
+.name{
+	position: absolute;
+	top: 10px;
+	left: 5px;
+	color: #f7dd95; 
+	font-size: 40px;
+	font-family: 'Teko', sans-serif;
+	margin-top: 0px;
+}
+hr{
+	border: 2px solid black;
+}
+@media (min-width: 992px){
+#para{
+	position: absolute;
+	background: rgba(0, 0, 0, 0.2);
+    padding-top: 0;
+}
+.hs1{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 60px;
+	padding-top: 10px;
+	font-family: 'Nova Flat', cursive;
+	color: #795548;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 47px;
+
+}
+.first{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 60px;
+	padding-top: 0;
+	font-family: 'Bree Serif', serif;
+	color: #702707;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 45px;
+    text-align: center;
+}
+.fh1{
+	position: relative;
+	padding-top: 50px;
+    height: 50px;
+	font-family: 'Algerian', sans-serif;
+	color: #f7dd95;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 5px #089882;
+    text-align: center;
+    font-size: 80px;
+}
+body{
+	font-size: 16px;
+	color: #fff;
+	background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200812/pngtree-old-brown-vintage-parchment-background-image_390800.jpg');
+    background-repeat: no-repeat;  
+    background-size: 100% 200px;
+	font-family: 'Oxygen', sans-serif
+}
+}
+@media (min-width: 768px) and (max-width: 991px){
+#para{
+	position: absolute;
+	padding-top: 0;
+	background: rgba(0, 0, 0, 0.2);
+}
+.hs1{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 8px;
+	font-family: 'Nova Flat', cursive;
+	color: #795548;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 30px;
+}
+.first{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 60px;
+	padding-top: 0;
+	font-family: 'Bree Serif', serif;
+	color: #702707;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 30px;
+    text-align: center;
+}
+.f1{
+    border-radius:0;
+    border: 0;
+    height: 200px;
+}
+.fh1{
+	position: relative;
+	padding-top: 60px;
+    height: 50px;
+	font-family: 'Algerian', sans-serif;
+	color: #f7dd95;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 5px #089882;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+	font-size: 16px;
+	color: #fff;
+	background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200812/pngtree-old-brown-vintage-parchment-background-image_390800.jpg');
+    background-repeat: no-repeat;  
+    background-size: 100% 200px;
+	font-family: 'Oxygen', sans-serif
+}
+}
+@media (max-width: 767px){
+#para{
+	position: absolute;
+	background: rgba(0, 0, 0, 0.2);
+	padding-top: 0;
+}
+.hs1{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 8px;
+	font-family: 'Nova Flat', cursive;
+	color: #795548;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 18px;
+    
+}
+.first{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 60px;
+	padding-top: 0;
+	font-family: 'Bree Serif', serif;
+	color: #702707;
+	font-weight: bold;
+    text-shadow: 1px 1px 5px #089882;
+    font-size: 30px;
+    text-align: center;
+}
+.f1{
+    border-radius:0; 
+    border: 0;
+    height: 160px;
+}
+.name{
+	font-size: 25px;
+}
+.fh1{
+	position: relative;
+	padding-top: 53px;
+    height: 50px;
+	font-family: 'Algerian', sans-serif;
+	color: #f7dd95;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 5px #089882;
+    text-align: center;
+    font-size: 40px;
+}
+body{
+	font-size: 16px;
+	color: #fff;
+	background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200812/pngtree-old-brown-vintage-parchment-background-image_390800.jpg');
+    background-repeat: no-repeat;  
+    background-size: 100% 160px;
+	font-family: 'Oxygen', sans-serif
+}
+}
